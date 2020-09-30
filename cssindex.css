@@ -4,6 +4,10 @@ ul {
     padding: 0;
 }
 
+.navbar {
+    display: inline-block;
+}
+
 li {
     float: left;
 }
@@ -12,4 +16,8 @@ a {
     display: block;
     padding: 10px;
     background-color: yellow;
+}
+
+h1 {
+    text-align: center;
 }
