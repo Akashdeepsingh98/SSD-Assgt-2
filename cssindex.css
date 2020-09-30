@@ -1,4 +1,4 @@
-ul {
+.navbar ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -8,11 +8,11 @@ ul {
     display: inline-block;
 }
 
-li {
+.navbar li {
     float: left;
 }
 
-a {
+.navbar a {
     display: block;
     padding: 10px;
     background-color: yellow;
