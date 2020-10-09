@@ -11,8 +11,3 @@ for (i = 0; i < listitems.length; i++) {
         }
     });
 }
-
-/*var ps=document.getElementsByTagName("p");
-for(i=0;i<ps.length;i++){
-    ps.style.display="block";
-}*/
