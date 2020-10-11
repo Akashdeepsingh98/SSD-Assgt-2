@@ -16,3 +16,4 @@
 - CSS file - cssreading.css
 - JS file - jsreading.js
 - It contains some of the books I have read.
+- The books are listed in buttons which open some lines about the book on click and close them on clicking again.
